@@ -1,4 +1,4 @@
-# 📥 YouTubeDown!
+# 📥 YouDownloader!
 
 (c) Charlie Martínez – Quirinux GNU/Linux, GPLv2  
 
